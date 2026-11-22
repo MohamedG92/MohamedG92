@@ -3,7 +3,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,45:3b0764,100:9333ea&height=260&section=header&text=Mohamed%20Iraqi%20Houssaini&fontSize=50&fontColor=f3e8ff&fontAlignY=42&animation=twinkling&stroke=c084fc&strokeWidth=1&desc=Software%20Engineering%20%C2%B7%20Desktop%20%C2%B7%20Full-Stack%20%C2%B7%20Security&descSize=17&descAlignY=62&descAlign=50"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=700&color=C084FC&center=true&vCenter=true&multiline=false&width=640&height=45&lines=Hey+%F0%9F%91%8B+I'm+Mohamed;I+build+tools+people+actually+use;Java+%C2%B7+C%2B%2B+%C2%B7+C%23+%C2%B7+Python+%C2%B7+JavaScript;Currently+shipping+EasyNotes92+%F0%9F%93%9D;Open+to+internships+%E2%9C%A8" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=700&color=C084FC&center=true&vCenter=true&multiline=false&width=640&height=45&lines=Hey+%F0%9F%91%8B+I'm+Mohamed;I+build+tools+people+actually+use;Java+%C2%B7+C%2B%2B+%C2%B7+C%23+%C2%B7+Python+%C2%B7+JavaScript;Just+released+EasyNotes92+v1.0+%F0%9F%9A%80;Open+to+internships+%E2%9C%A8" alt="Typing SVG"/>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=MohamedG92&style=for-the-badge&color=7e22ce&label=PROFILE+VIEWS" />
@@ -20,7 +20,7 @@ I'm a **3rd-year Software Engineering student at ESISA** in Morocco who loves tu
 I enjoy the whole range: a polished **Java desktop app**, a **C++ program talking to a database**, a **full-stack MERN web app**,
 or a **Python script that digs through server logs** to find who is attacking an SSH server.
 
-Right now I'm finishing **EasyNotes92**, a free note-taking app for students that is headed to the **Microsoft Store**.
+I just released **EasyNotes92 v1.0**, my free note-taking app for students: open source for **Windows and macOS**, and submitted to the **Microsoft Store**.
 I speak **Arabic, French and English**, and I'm **open to internships** and interesting collaborations.
 
 <br/>
@@ -64,11 +64,15 @@ I speak **Arabic, French and English**, and I'm **open to internships** and inte
 <div align="center">
 <br/>
 
-> 📝 **EasyNotes92**: my dark, tabbed note-taking app (Java · Swing · FlatLaf) with chapters, auto-numbered lists,
-> syntax-coloured code blocks and 26 themes. **Free, coming soon to the Microsoft Store.**
+> 🚀 **EasyNotes92 v1.0 is out!** My dark, tabbed note-taking app for students (Java · Swing · FlatLaf):
+> numbered chapters in one keystroke, auto-numbered lists, syntax-colored code blocks and 26 themes.
+> **Free and open source** for [Windows](https://github.com/MohamedG92/EasyNotes92) and [macOS](https://github.com/MohamedG92/EasyNotes92-macOS),
+> and submitted to the **Microsoft Store** (in review).
 
 <br/>
 
+<a href="https://github.com/MohamedG92/EasyNotes92"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedG92&repo=EasyNotes92&hide_border=true&bg_color=13071f&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff&description_lines_count=2" /></a>
+<a href="https://github.com/MohamedG92/EasyNotes92-macOS"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedG92&repo=EasyNotes92-macOS&hide_border=true&bg_color=13071f&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff&description_lines_count=2" /></a>
 <a href="https://github.com/MohamedG92/StockFlow"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedG92&repo=StockFlow&hide_border=true&bg_color=13071f&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff&description_lines_count=2" /></a>
 <a href="https://github.com/MohamedG92/Log_analyzer"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedG92&repo=Log_analyzer&hide_border=true&bg_color=13071f&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff&description_lines_count=2" /></a>
 <a href="https://github.com/MohamedG92/Projet_Gestion_academique"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedG92&repo=Projet_Gestion_academique&hide_border=true&bg_color=13071f&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff&description_lines_count=2" /></a>
