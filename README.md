@@ -3,7 +3,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,45:3b0764,100:9333ea&height=260&section=header&text=Mohamed%20Iraqi%20Houssaini&fontSize=50&fontColor=f3e8ff&fontAlignY=42&animation=twinkling&stroke=c084fc&strokeWidth=1&desc=Software%20Engineering%20%C2%B7%20Desktop%20%C2%B7%20Full-Stack%20%C2%B7%20Security&descSize=17&descAlignY=62&descAlign=50"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=700&color=C084FC&center=true&vCenter=true&multiline=false&width=640&height=45&lines=Hey+%F0%9F%91%8B+I'm+Mohamed;I+build+tools+people+actually+use;Java+%C2%B7+C%2B%2B+%C2%B7+C%23+%C2%B7+Python+%C2%B7+JavaScript;Just+released+EasyNotes92+v1.0+%F0%9F%9A%80;Open+to+internships+%E2%9C%A8" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=700&color=C084FC&center=true&vCenter=true&multiline=false&width=640&height=45&lines=Hey+%F0%9F%91%8B+I'm+Mohamed;I+build+tools+people+actually+use;Java+%C2%B7+C%2B%2B+%C2%B7+C%23+%C2%B7+Python+%C2%B7+JavaScript;EasyNotes92+is+on+the+Microsoft+Store+%F0%9F%8E%89;Open+to+internships+%E2%9C%A8" alt="Typing SVG"/>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=MohamedG92&style=for-the-badge&color=7e22ce&label=PROFILE+VIEWS" />
@@ -20,7 +20,7 @@ I'm a **3rd-year Software Engineering student at ESISA** in Morocco who loves tu
 I enjoy the whole range: a polished **Java desktop app**, a **C++ program talking to a database**, a **full-stack MERN web app**,
 or a **Python script that digs through server logs** to find who is attacking an SSH server.
 
-I just released **EasyNotes92 v1.0**, my free note-taking app for students: open source for **Windows and macOS**, and submitted to the **Microsoft Store**.
+I just released **EasyNotes92 v1.0**, my free note-taking app for students: it's live on the **[Microsoft Store](https://apps.microsoft.com/detail/9NQLXZ93BSGM)** 🎉 and open source for **Windows and macOS**.
 I speak **Arabic, French and English**, and I'm **open to internships** and interesting collaborations.
 
 <br/>
@@ -66,8 +66,9 @@ I speak **Arabic, French and English**, and I'm **open to internships** and inte
 
 > 🚀 **EasyNotes92 v1.0 is out!** My dark, tabbed note-taking app for students (Java · Swing · FlatLaf):
 > numbered chapters in one keystroke, auto-numbered lists, syntax-colored code blocks and 26 themes.
-> **Free and open source** for [Windows](https://github.com/MohamedG92/EasyNotes92) and [macOS](https://github.com/MohamedG92/EasyNotes92-macOS),
-> and submitted to the **Microsoft Store** (in review).
+> **Now on the Microsoft Store**, free, and open source for [Windows](https://github.com/MohamedG92/EasyNotes92) and [macOS](https://github.com/MohamedG92/EasyNotes92-macOS).
+>
+> <a href="https://apps.microsoft.com/detail/9NQLXZ93BSGM"><img src="https://img.shields.io/badge/Get%20it%20on-Microsoft%20Store-9333ea?style=for-the-badge&logo=microsoftstore&logoColor=white&labelColor=1e0b33" alt="Get it on Microsoft Store" /></a>
 
 <br/>
 
