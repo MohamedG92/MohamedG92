@@ -14,34 +14,41 @@
 </div>
 
 <!-- ░░ ABOUT ░░ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b0764,100:0d0221&height=40&section=header&text=%20%20whoami&fontSize=20&fontColor=e9d5ff&fontAlign=8&fontAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b0764,100:0d0221&height=40&section=header&text=%20%20about%20me&fontSize=20&fontColor=e9d5ff&fontAlign=9&fontAlignY=60" width="100%"/>
 
-```java
-public class MohamedIraqiHoussaini {
+I'm a **3rd-year Software Engineering student at ESISA** in Morocco who loves turning ideas into **real tools that people actually use**.
+I enjoy the whole range: a polished **Java desktop app**, a **C++ program talking to a database**, a **full-stack MERN web app**,
+or a **Python script that digs through server logs** to find who is attacking an SSH server.
 
-    String role      = "Software Engineering Student";
-    String school    = "ESISA (3rd year)";
-    String location  = "Morocco 🇲🇦";
-    String[] speaks  = { "Arabic", "French", "English" };
+Right now I'm finishing **EasyNotes92**, a free note-taking app for students that is headed to the **Microsoft Store**.
+I speak **Arabic, French and English**, and I'm **open to internships** and interesting collaborations.
 
-    String[] building = {
-        "EasyNotes92 → free note-taking app, coming to the Microsoft Store",
-        "Clean, useful tools: desktop apps, full-stack web, security tooling"
-    };
-
-    String funFact = "I'd rather build the tool than search for one 🛠️";
-}
-```
+<br/>
 
 <!-- ░░ STACK ░░ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b0764,100:0d0221&height=40&section=header&text=%20%20tech%20stack&fontSize=20&fontColor=e9d5ff&fontAlign=10&fontAlignY=60" width="100%"/>
 
 <div align="center">
-<br/>
 
-<img src="https://skillicons.dev/icons?i=java,cpp,cs,python,js,php,html,css&theme=dark&perline=8" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,qt,threejs,vercel&theme=dark&perline=8" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=git,github,linux,azure,docker,vscode,idea,figma&theme=dark&perline=8" />
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=java,cpp,cs,python,js,php&theme=dark" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,react,threejs,figma&theme=dark" />
+
+**Backend / Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
+
+**Desktop**
+
+<img src="https://skillicons.dev/icons?i=java,qt,cpp&theme=dark" />
+
+**DevOps / Cloud / Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,azure,vercel,vscode,idea&theme=dark" />
 
 <br/><br/>
 </div>
