@@ -98,4 +98,4 @@ public class MohamedIraqiHoussaini {
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:9333ea,55:3b0764,100:0d0221&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9333ea,55:3b0764,100:0d0221&height=120&section=footer" />
