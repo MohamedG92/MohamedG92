@@ -33,22 +33,27 @@ I speak **Arabic, French and English**, and I'm **open to internships** and inte
 **Languages**
 
 <img src="https://skillicons.dev/icons?i=java,cpp,cs,python,js,php&theme=dark" />
+<br/><br/>
 
 **Frontend**
 
 <img src="https://skillicons.dev/icons?i=html,css,react,threejs,figma&theme=dark" />
+<br/><br/>
 
 **Backend / Databases**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
+<br/><br/>
 
 **Desktop**
 
 <img src="https://skillicons.dev/icons?i=java,qt,cpp&theme=dark" />
+<br/><br/>
 
 **DevOps / Cloud / Tools**
 
 <img src="https://skillicons.dev/icons?i=git,github,linux,docker,azure,vercel,vscode,idea&theme=dark" />
+<br/><br/>
 
 <br/><br/>
 </div>
