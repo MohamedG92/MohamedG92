@@ -104,6 +104,7 @@ I speak **Arabic, French and English**, and I'm **open to internships** and inte
 <div align="center">
 
 <a href="https://github.com/MohamedG92"><img src="https://img.shields.io/badge/GitHub-MohamedG92-a855f7?style=for-the-badge&logo=github&logoColor=white&labelColor=1e0b33" /></a>
+<a href="https://iraqimohamed.vercel.app"><img src="https://img.shields.io/badge/Portfolio-iraqimohamed.vercel.app-c084fc?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1e0b33" /></a>
 <img src="https://img.shields.io/badge/Based%20in-Morocco-7e22ce?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1e0b33" />
 
 <sub>✨ thanks for stopping by ✨</sub>
