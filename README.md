@@ -1,136 +1,101 @@
+<!-- ░░ HEADER ░░ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:1e3a8a,100:f59e0b&height=220&section=header&text=Mohamed%20Iraqi%20Houssaini&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20ESISA%20%7C%20Morocco&descAlignY=58&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,45:3b0764,100:9333ea&height=260&section=header&text=Mohamed%20Iraqi%20Houssaini&fontSize=50&fontColor=f3e8ff&fontAlignY=42&animation=twinkling&stroke=c084fc&strokeWidth=1&desc=Software%20Engineering%20%C2%B7%20Desktop%20%C2%B7%20Full-Stack%20%C2%B7%20Security&descSize=17&descAlignY=62&descAlign=50"/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=700&color=C084FC&center=true&vCenter=true&multiline=false&width=640&height=45&lines=Hey+%F0%9F%91%8B+I'm+Mohamed;I+build+tools+people+actually+use;Java+%C2%B7+C%2B%2B+%C2%B7+C%23+%C2%B7+Python+%C2%B7+JavaScript;Currently+shipping+EasyNotes92+%F0%9F%93%9D;Open+to+internships+%E2%9C%A8" alt="Typing SVG"/>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=MohamedG92&style=for-the-badge&color=7e22ce&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/MohamedG92?style=for-the-badge&color=581c87&labelColor=1e0b33&label=FOLLOWERS" />
+  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20INTERNSHIPS-a855f7?style=for-the-badge&labelColor=1e0b33" />
+</p>
+
+</div>
+
+<!-- ░░ ABOUT ░░ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b0764,100:0d0221&height=40&section=header&text=%20%20whoami&fontSize=20&fontColor=e9d5ff&fontAlign=8&fontAlignY=60" width="100%"/>
+
+```java
+public class MohamedIraqiHoussaini {
+
+    String role      = "Software Engineering Student";
+    String school    = "ESISA (3rd year)";
+    String location  = "Morocco 🇲🇦";
+    String[] speaks  = { "Arabic", "French", "English" };
+
+    String[] building = {
+        "EasyNotes92 → free note-taking app, coming to the Microsoft Store",
+        "Clean, useful tools: desktop apps, full-stack web, security tooling"
+    };
+
+    String funFact = "I'd rather build the tool than search for one 🛠️";
+}
+```
+
+<!-- ░░ STACK ░░ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b0764,100:0d0221&height=40&section=header&text=%20%20tech%20stack&fontSize=20&fontColor=e9d5ff&fontAlign=10&fontAlignY=60" width="100%"/>
+
+<div align="center">
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=900&color=F59E0B&center=true&vCenter=true&width=600&height=30&lines=javac+EasyNotes92.java+%26%26+jpackage+--type+msix;g%2B%2B+gestion_academique.cpp+-lmariadb;uv+run+main.py+--analyse+auth.log;npm+run+dev+%23+React+%C2%B7+Express+%C2%B7+MongoDB" alt="Typing SVG"/>
+<img src="https://skillicons.dev/icons?i=java,cpp,cs,python,js,php,html,css&theme=dark&perline=8" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,qt,threejs,vercel&theme=dark&perline=8" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,linux,azure,docker,vscode,idea,figma&theme=dark&perline=8" />
 
 <br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=MohamedG92&style=flat-square&color=f59e0b&label=Profile%20Views)
-![Followers](https://img.shields.io/github/followers/MohamedG92?style=flat-square&color=1e3a8a&label=Followers)
-
 </div>
 
-<br/>
-
-## ◈ About me
-
-I'm a **3rd-year Software Engineering student at ESISA** (Morocco) who likes building **real tools that people actually use**,
-from desktop apps to full-stack web apps and security tooling.
-
-- 🛠️ Building **EasyNotes92**, a free note-taking app in Java, headed to the **Microsoft Store**
-- 🔐 Interested in **systems, security and clean architecture**
-- 🌍 Languages: Arabic · French · English
-
-<br/>
-
----
-
-## ⬡ Tech Stack
+<!-- ░░ PROJECTS ░░ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b0764,100:0d0221&height=40&section=header&text=%20%20featured%20projects&fontSize=20&fontColor=e9d5ff&fontAlign=13&fontAlignY=60" width="100%"/>
 
 <div align="center">
+<br/>
 
-**Languages**
-
-[![Languages](https://skillicons.dev/icons?i=java,cpp,cs,python,js,html,css)](https://skillicons.dev)
-
-**Web / Full-Stack**
-
-[![Web](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,vercel)](https://skillicons.dev)
-
-**Databases**
-
-[![Databases](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
-
-**Tools & Platforms**
-
-[![Tools](https://skillicons.dev/icons?i=git,github,linux,azure,vscode,idea,eclipse,figma)](https://skillicons.dev)
-
-</div>
+> 📝 **EasyNotes92**: my dark, tabbed note-taking app (Java · Swing · FlatLaf) with chapters, auto-numbered lists,
+> syntax-coloured code blocks and 26 themes. **Free, coming soon to the Microsoft Store.**
 
 <br/>
 
----
-
-## ▦ Featured Projects
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-<h4>📝 EasyNotes92 &nbsp; <code>Desktop</code></h4>
-<p>A dark, tabbed notepad made for taking course notes while coding: numbered chapters, auto-numbered lists, code blocks with syntax colours, 26 themes and autocomplete from your past notes. Free, coming to the Microsoft Store.</p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Swing%20%2B%20FlatLaf-1e3a8a?style=flat-square"/>
-<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/>
-</td>
-<td width="50%" valign="top">
-<h4>🔐 <a href="https://github.com/MohamedG92/Log_analyzer">Log_analyzer</a> &nbsp; <code>Security</code></h4>
-<p>Analyses a Linux server's SSH logs (auth.log, even .gz): failed passwords, invalid users and successful logins, geolocates every IP and shows a matplotlib dashboard of attacks by country and user.</p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/matplotlib-11557c?style=flat-square"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h4>🎓 <a href="https://github.com/MohamedG92/Projet_Gestion_academique">Projet_Gestion_academique</a> &nbsp; <code>C++</code></h4>
-<p>Academic management system connected to MariaDB. Two roles: teachers manage students, modules, grades and statistics; students see their grades, average and the minimum exam grade they need.</p>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
-</td>
-<td width="50%" valign="top">
-<h4>👥 <a href="https://github.com/MohamedG92/gestion-etudiants">gestion-etudiants</a> &nbsp; <code>Full-Stack</code></h4>
-<p>A MERN CRM for managing clients: React front-end, Express/Node.js API and MongoDB Atlas, deployed on Vercel.</p>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MohamedG92&show_icons=true&hide_border=true&title_color=f59e0b&icon_color=60a5fa&text_color=cbd5e1&bg_color=0b1220&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedG92&layout=compact&hide_border=true&title_color=f59e0b&text_color=cbd5e1&bg_color=0b1220&langs_count=6" height="165"/>
+<a href="https://github.com/MohamedG92/StockFlow"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedG92&repo=StockFlow&hide_border=true&bg_color=13071f&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff&description_lines_count=2" /></a>
+<a href="https://github.com/MohamedG92/Log_analyzer"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedG92&repo=Log_analyzer&hide_border=true&bg_color=13071f&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff&description_lines_count=2" /></a>
+<a href="https://github.com/MohamedG92/Projet_Gestion_academique"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedG92&repo=Projet_Gestion_academique&hide_border=true&bg_color=13071f&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff&description_lines_count=2" /></a>
+<a href="https://github.com/MohamedG92/gestion-etudiants"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedG92&repo=gestion-etudiants&hide_border=true&bg_color=13071f&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff&description_lines_count=2" /></a>
+<a href="https://github.com/MohamedG92/Portfolio"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedG92&repo=Portfolio&hide_border=true&bg_color=13071f&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff&description_lines_count=2" /></a>
+<a href="https://github.com/MohamedG92/Restaurant_Sushi"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedG92&repo=Restaurant_Sushi&hide_border=true&bg_color=13071f&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff&description_lines_count=2" /></a>
 
 <br/><br/>
+</div>
 
-<img width="80%" src="https://streak-stats.demolab.com/?user=MohamedG92&hide_border=true&ring=f59e0b&fire=60a5fa&currStreakLabel=f59e0b&sideNums=cbd5e1&sideLabels=94a3b8&dates=64748b&background=0b1220"/>
+<!-- ░░ STATS ░░ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b0764,100:0d0221&height=40&section=header&text=%20%20github%20stats&fontSize=20&fontColor=e9d5ff&fontAlign=11&fontAlignY=60" width="100%"/>
+
+<div align="center">
+<br/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MohamedG92&show_icons=true&hide_border=true&count_private=true&bg_color=13071f&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff&ring_color=a855f7" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedG92&layout=compact&hide_border=true&langs_count=6&bg_color=13071f&title_color=c084fc&text_color=e9d5ff" />
+
+<img width="85%" src="https://streak-stats.demolab.com/?user=MohamedG92&hide_border=true&background=13071f&ring=a855f7&fire=c084fc&currStreakNum=f3e8ff&currStreakLabel=c084fc&sideNums=e9d5ff&sideLabels=c084fc&dates=a78bfa&stroke=3b0764" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedG92&bg_color=13071f&color=e9d5ff&line=a855f7&point=f3e8ff&area=true&area_color=7e22ce&hide_border=true&title_color=c084fc" />
+
+<!-- snake: generated every day by .github/workflows/snake.yml -->
+<picture>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/MohamedG92/MohamedG92/output/snake-purple.svg" width="100%" />
+</picture>
 
 <br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedG92&bg_color=0b1220&color=cbd5e1&line=f59e0b&point=60a5fa&area=true&area_color=1e3a8a&hide_border=true"/>
-
 </div>
 
-<br/>
-
----
-
-## 🤝 Connect
-
+<!-- ░░ FOOTER ░░ -->
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-MohamedG92-f59e0b?style=for-the-badge&logo=github&logoColor=white&labelColor=0b1220)](https://github.com/MohamedG92)
-[![Location](https://img.shields.io/badge/Location-Morocco-1e3a8a?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0b1220)](#)
+<a href="https://github.com/MohamedG92"><img src="https://img.shields.io/badge/GitHub-MohamedG92-a855f7?style=for-the-badge&logo=github&logoColor=white&labelColor=1e0b33" /></a>
+<img src="https://img.shields.io/badge/Based%20in-Morocco-7e22ce?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1e0b33" />
 
-<br/>
-
-*Open to internships, collaborations and interesting projects.*
+<sub>✨ thanks for stopping by ✨</sub>
 
 </div>
 
-<br/>
-
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f59e0b,50:1e3a8a,100:0b1220&height=100&section=footer"/>
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:9333ea,55:3b0764,100:0d0221&height=120&section=footer" />
